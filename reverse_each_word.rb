@@ -1,4 +1,4 @@
 def reverse_each_word(words)
-  words.split.map {
+  words.split.map {|word| }
   end
 end
